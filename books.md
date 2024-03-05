@@ -23,7 +23,7 @@
 // Additionally: Create a space in our offices where Rocketeers can freely drop their books and grab any available.
 
 
-* Reasons why you might want to give away your books:
+// Reasons why you might want to give away your books:
 - Content no longer scope of your work
 - Space for new books
 - Book was not what you expected or didn't had what you needed
@@ -47,6 +47,9 @@
 
 
 **Handbook pages that will need update:
+
 https://handbook.rocket.chat/departments-and-operations/people/developing-yourself/learning
+
 https://handbook.rocket.chat/departments-and-operations/people/developing-yourself/book-club
+
 https://handbook.rocket.chat/the-company/our-culture/awards-and-recognition/rocket.chat-rockstars
