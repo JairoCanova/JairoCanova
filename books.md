@@ -1,6 +1,6 @@
-**Draft Proposal for Book Club 2.0
+#Draft Proposal for Book Club 2.0
 
-1. Book Sharing
+# 1. Book Sharing
 
 - Rocketeers can exchange exclusively physical books purchased through the Learning program.
 - Sender and receiver must live in the same country.
@@ -8,7 +8,7 @@
 - Rocket.Chat will reimburse the mail delivery. Sender is responsible to find the best shipping price.
 *In Brasil Correios has a book-exclusive category. Read more on ["Impresso Módico"](https://www.correios.com.br/enviar/marketing-direto/saiba-mais-nacional)
 
-# How it works: 
+* How it works: 
 - Rocketeers can publish in the Book Club channel what books they have to share, stating their country.
 - Anyone interested can request as many books as they want. 
 - Receiver will share a delivery address in private. 
@@ -16,9 +16,9 @@
 - Optional: Rocketeers near our offices can use them to drop and pick up books without shipping costs.
 *Be responsible, ask for books relevant to your current role or carreer path. We trust your judgement.
 
-# Additionally: *Create a space in our offices where Rocketeers can freely drop their books and grab any available.
+* Additionally: *Create a space in our offices where Rocketeers can freely drop their books and grab any available.
 
-# Reasons why you might want to give away your books:
+* Reasons why you might want to give away your books:
 - Content no longer scope of your work
 - Space for new books
 - Book was not what you expected or didn't had what you needed
@@ -26,7 +26,7 @@
 - Do not intend to reread
 - You have another book with similar content
 
-2. Changes in RockStars
+# 2. Changes in RockStars
 
 - End the points system for Book Club.
 
