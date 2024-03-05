@@ -6,6 +6,7 @@
 - Sender and receiver must live in the same country.
 - Receiver agrees to share a delivery address.
 - Rocket.Chat will reimburse the mail delivery. Sender is responsible to find the best shipping price.
+
 *In Brasil Correios has a book-exclusive category. Read more on ["Impresso Módico"](https://www.correios.com.br/enviar/marketing-direto/saiba-mais-nacional)
 
 
@@ -15,6 +16,7 @@
 - Receiver will share a delivery address in private. 
 - Sender is resposible to ship and present People Team a receipt for reimbursement.
 - Optional: Rocketeers near our offices can use them to drop and pick up books without shipping costs.
+
 *Be responsible, ask for books relevant to your current role or carreer path. We trust your judgement.
 
 // Additionally: *Create a space in our offices where Rocketeers can freely drop their books and grab any available.
