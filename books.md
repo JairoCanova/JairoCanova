@@ -19,7 +19,9 @@
 
 *Be responsible, ask for books relevant to your current role or carreer path. We trust your judgement.
 
-// Additionally: *Create a space in our offices where Rocketeers can freely drop their books and grab any available.
+
+// Additionally: Create a space in our offices where Rocketeers can freely drop their books and grab any available.
+
 
 * Reasons why you might want to give away your books:
 - Content no longer scope of your work
@@ -29,12 +31,15 @@
 - Do not intend to reread
 - You have another book with similar content
 
+
 # 2. Changes in RockStars
 
 - End the points system for Book Club.
 
 - Updated rule: "Books read are awarded as courses".
+
 - Award 5 stars for every 100 pages, to a max of 50 stars.
+
 *Example: finished "Principles by Ray Dalio", 592 pages. 
 *Go to Zoho People > Compensation > RockStars and request 25 stars.
 
