@@ -1,4 +1,4 @@
-#Draft Proposal for Book Club 2.0
+# Draft Proposal for Book Club 2.0
 
 # 1. Book Sharing
 
